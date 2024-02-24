@@ -1,12 +1,6 @@
-# Build a SaaS AI Platform with Next.js 13, React, Tailwind, Prisma, Stripe | Full Tutorial 2023
-
-![Copy of Copy of Copy of Fullstack Twitter Clone](https://github.com/AntonioErdeljac/next13-ai-saas/assets/23248726/c47e604a-b50b-4eb0-b420-fda20908f522)
+SaaS AI Platform
 
 
-
-This is a repository for Build a SaaS AI Platform with Next.js 13, React, Tailwind, Prisma, Stripe | Full Tutorial 2023.
-
-[VIDEO TUTORIAL](https://www.youtube.com/watch?v=ffJ38dBzrlY)
 
 Features:
 
@@ -15,78 +9,16 @@ Features:
 - Full responsiveness
 - Clerk Authentication (Email, Google, 9+ Social Logins)
 - Client form validation and handling using react-hook-form
-- Server error handling using react-toast
 - Image Generation Tool (Open AI)
 - Video Generation Tool (Replicate AI)
 - Conversation Generation Tool (Open AI)
 - Music Generation Tool (Replicate AI)
 - Page loading state
 - Stripe monthly subscription
-- Free tier with API limiting
-- How to write POST, DELETE, and GET routes in route handlers (app/api)
-- How to fetch data in server react components by directly accessing database (WITHOUT API! like Magic!)
-- How to handle relations between Server and Child components!
-- How to reuse layouts
-- Folder structure in Next 13 App Router
-
-### Prerequisites
-
-**Node version 18.x.x**
-
-### Cloning the repository
-
-```shell
-git clone https://github.com/AntonioErdeljac/next13-ai-saas.git
-```
-
-### Install packages
-
-```shell
-npm i
-```
-
-### Setup .env file
-
-
-```js
-NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
-CLERK_SECRET_KEY=
-
-NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
-NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
-NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL=/dashboard
-NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/dashboard
-
-OPENAI_API_KEY=
-REPLICATE_API_TOKEN=
-
-DATABASE_URL=
-
-STRIPE_API_KEY=
-STRIPE_WEBHOOK_SECRET=
-
-NEXT_PUBLIC_APP_URL="http://localhost:3000"
-```
-
-### Setup Prisma
-
-Add MySQL Database (I used PlanetScale)
-
-```shell
-npx prisma db push
-
-```
-
-### Start the app
-
-```shell
-npm run dev
-```
-
-## Available commands
-
-Running commands with npm `npm run [command]`
-
-| command         | description                              |
-| :-------------- | :--------------------------------------- |
-| `dev`           | Starts a development instance of the app |
+![1!](https://github.com/PranavPatil7/AImasterWebApp/blob/main/screenshots/1.png)
+![2](https://github.com/PranavPatil7/AImasterWebApp/assets/30521517/9ee54748-bb78-4d49-884c-bf7babdd811d)
+![a](https://github.com/PranavPatil7/AImasterWebApp/assets/30521517/1371be42-d913-4510-8743-f1913208cbbe)
+![b](https://github.com/PranavPatil7/AImasterWebApp/assets/30521517/0cf236e8-fc4b-411e-8819-094ee0e0dfce)
+![c](https://github.com/PranavPatil7/AImasterWebApp/assets/30521517/408bab85-b318-407a-bc9d-c334a43663b4)
+![3](https://github.com/PranavPatil7/AImasterWebApp/assets/30521517/d33db7e3-959c-4997-8ae1-ef39d9e99281)
+![4](https://github.com/PranavPatil7/AImasterWebApp/assets/30521517/d214f093-ea8c-4df0-96ab-577e3f3fe33f)
