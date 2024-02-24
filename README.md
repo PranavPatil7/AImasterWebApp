@@ -15,10 +15,11 @@ Features:
 - Music Generation Tool (Replicate AI)
 - Page loading state
 - Stripe monthly subscription
-![1!](https://github.com/PranavPatil7/AImasterWebApp/blob/main/screenshots/1.png)
-![2](https://github.com/PranavPatil7/AImasterWebApp/assets/30521517/9ee54748-bb78-4d49-884c-bf7babdd811d)
-![a](https://github.com/PranavPatil7/AImasterWebApp/assets/30521517/1371be42-d913-4510-8743-f1913208cbbe)
-![b](https://github.com/PranavPatil7/AImasterWebApp/assets/30521517/0cf236e8-fc4b-411e-8819-094ee0e0dfce)
-![c](https://github.com/PranavPatil7/AImasterWebApp/assets/30521517/408bab85-b318-407a-bc9d-c334a43663b4)
-![3](https://github.com/PranavPatil7/AImasterWebApp/assets/30521517/d33db7e3-959c-4997-8ae1-ef39d9e99281)
-![4](https://github.com/PranavPatil7/AImasterWebApp/assets/30521517/d214f093-ea8c-4df0-96ab-577e3f3fe33f)
+
+![1](https://github.com/PranavPatil7/AImasterWebApp/assets/30521517/bc54c509-b582-4d15-8c98-664e2a7c2013)
+![2](https://github.com/PranavPatil7/AImasterWebApp/assets/30521517/f414f100-a473-49b2-ae48-dd44ff7b5911)
+![a](https://github.com/PranavPatil7/AImasterWebApp/assets/30521517/a238f76c-eeaf-4391-9670-2c3de762c0f1)
+![c](https://github.com/PranavPatil7/AImasterWebApp/assets/30521517/86312cfb-d8c2-4836-b6e6-49d8b042615b)
+![b](https://github.com/PranavPatil7/AImasterWebApp/assets/30521517/f177e7f6-1642-46d0-b0fc-56aadf3f368b)
+![4](https://github.com/PranavPatil7/AImasterWebApp/assets/30521517/1b07f065-4340-426a-b3d3-5a25f77cfa13)
+![3](https://github.com/PranavPatil7/AImasterWebApp/assets/30521517/390a61f3-1ce9-406c-8e36-3dee9092b6b2)
